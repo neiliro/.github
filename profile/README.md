@@ -27,6 +27,6 @@ Built by a family that got tired of juggling five apps — and battle-tested by 
 **[neiliro/neiliro](https://github.com/neiliro/neiliro)** is the app. Start with the [roadmap](https://github.com/orgs/neiliro/projects/1), or grab a [good first issue](https://github.com/neiliro/neiliro/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
 <p align="center">
-  <a href="https://www.producthunt.com/products/neiliro-your-family-s-home-base/reviews/new?utm_source=badge-product_review&utm_medium=badge"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1318443&theme=dark" alt="Neiliro on Product Hunt" width="222" height="48"></a>&ensp;
+  <a href="https://www.producthunt.com/products/neiliro-your-family-s-home-base/reviews/new?utm_source=badge-product_review&utm_medium=badge"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=1318443&theme=dark" alt="Neiliro on Product Hunt" height="48"></a>&ensp;
   <a href="https://alternativeto.net/software/neiliro/about/?utm_source=badge&utm_medium=referral"><img src="https://alternativeto.net/static/badges/badge-compact-color.svg" alt="Neiliro on AlternativeTo" height="48"></a>
 </p>
